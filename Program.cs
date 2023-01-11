@@ -15,3 +15,4 @@ void NaturalToLow(int n, int count)
         Console.Write(count + " ");
     }
 }
+
